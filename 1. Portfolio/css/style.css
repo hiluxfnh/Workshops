@@ -104,12 +104,12 @@ h4{
 	right: 6px; 
 }
 
-.about{
+#about{
 	width: 100%;
 	padding: 100px 0px;
 	background-color: #191919;
 }
-.about img{
+#about img{
 	height: auto;
 	width: 430px;
 }
@@ -160,7 +160,7 @@ button:hover{
 	cursor: pointer;
 }
 
-.service{
+.skills{
 	background: #101010;
 	width: 100%;
 	padding: 100px 0px;
